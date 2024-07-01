@@ -20,4 +20,4 @@
 docker pull docker.domain.com/mysql:latest
 ```
 
-2. 用就完了。
+2. 用就完了...
